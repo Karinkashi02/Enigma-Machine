@@ -14,4 +14,5 @@ https://sourceforge.net/projects/mingw-w64
 5. If the messages on "decrypt" file is the same as your "plain" file, then your rotor wiring is correct.
 
 WHAT YOU CAN DO WITH IT:
+
 Implement in your project in creative way lol.
