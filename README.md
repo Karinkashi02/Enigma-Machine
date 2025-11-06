@@ -5,7 +5,7 @@ Only those who had the secret key can decrypt the cipher text to read the origin
 HOW TO USE:
 
 0. Rearrange rotor 1-10 positions inside main.cpp (Optional if you wanna use your own rotor wiring) and recompile(MUST if rotor were changed) into new main.exe using MinGW-w64.
-https://sourceforge.net/projects/mingw-w64
+https://sourceforge.net/projects/mingw-w64 (OPTIONAL)
 
 1. Enter your original message inside "plain" file(notepad/VS studio code/anything suitable).
 2. Run main.exe.
