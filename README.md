@@ -11,7 +11,7 @@ https://sourceforge.net/projects/mingw-w64 (OPTIONAL)
 2. Run main.exe.
 3. View your encrypted messages inside "encrypt" file.
 4. Your encrypted messages will be decrypt back to original messages inside "decrypt" file.
-5. If the messages on "decrypt" file is the same as your "plain" file, then your rotor wiring is correct.
+5. If the messages inside "decrypt" file is the same as your "plain" file, then your rotor wiring is correct.
 
 WHAT YOU CAN DO WITH IT:
 
