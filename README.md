@@ -13,6 +13,8 @@ https://sourceforge.net/projects/mingw-w64 (OPTIONAL)
 4. Your encrypted messages will be decrypt back to original messages inside "decrypt" file.
 5. If the messages inside "decrypt" file is the same as your "plain" file, then your rotor wiring is correct.
 
+(Make sure to save everytime you wrote down new messages inside "plain" file.)
+
 WHAT YOU CAN DO WITH IT:
 
-Implement on your project in creative way lol.
+Implement on your communications privacy related project in creative way lol.
