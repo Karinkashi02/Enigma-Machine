@@ -15,4 +15,4 @@ https://sourceforge.net/projects/mingw-w64
 
 WHAT YOU CAN DO WITH IT:
 
-Implement in your project in creative way lol.
+Implement on your project in creative way lol.
