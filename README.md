@@ -2,6 +2,12 @@ The Enigma machine was a cipher device developed and used extensively by Nazi Ge
 The purpose was to encrypt message turn it into cipher text(scrambled) using rotor wiring position to keep them secret.
 Only those who had the secret key can decrypt the cipher text to read the original messages.
 
+🔑 Components of the Enigma Secret Key
+- Rotor Order
+- Ring Settings
+- Plugboard Connections
+- Starting Positions
+
 HOW TO USE:
 
 0. Rearrange rotor 1-10 positions inside main.cpp (Optional if you wanna use your own rotor wiring) and recompile(MUST if rotor were changed) into new main.exe using MinGW-w64.
